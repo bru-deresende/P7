@@ -2,16 +2,16 @@
 
 Lien Dashboard : https://ocr7-92bf8f2ff8e1.herokuapp.com/
 
-# Contexte
+## Contexte
 En tant que Data Scientist chez Prêt à dépenser, une société financière spécialisée dans les crédits à la consommation, j'ai été chargé de développer un modèle de scoring pour évaluer la probabilité de remboursement des prêts par les clients. Ce modèle permettra de classifier automatiquement les demandes de crédit en tant qu'approuvées ou refusées, en se basant sur des données variées telles que les comportements des clients et les informations provenant d'autres institutions financières.
 Objectif du Projet
 
-# Le projet vise à :
+## Le projet vise à :
 
   1. Élaboration du Modèle de Scoring : Construire un modèle de machine learning capable de prédire la probabilité de défaut de paiement d'un client et de classifier sa demande de crédit.
   2. MLOps et Mise en Production : Déployer le modèle de scoring sous forme d'une API dans le cloud, gérer son cycle de vie via une approche MLOps, et surveiller les performances en production.
 
-# Étapes de l'Analyse
+## Étapes de l'Analyse
 
   1. Prétraitement et Feature Engineering :
      - Préparation des données, gestion des variables catégorielles et création de nouvelles variables.
